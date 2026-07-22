@@ -27,7 +27,7 @@ The part most relevant to how I'd operate anywhere: **every experiment preregist
 
 ## What's built, what's next
 
-Built: two custom sensors (an inertial bar clip and an mmWave radar puck) designed and taken into turnkey manufacturing, plus a working sensing bench on dev-board stand-ins. On that bench, bar-displacement measurements repeat to within a few centimeters, the clip and radar reliably lock onto the same bar, a radar training corpus is assembled from public and simulated sources, and the form-perception model trains against physics simulation.
+Built: two custom sensors (an inertial bar clip and an mmWave radar puck) designed, manufactured, and shipped across six board revisions, plus a working sensing bench on dev-board stand-ins. On that bench, bar-displacement measurements repeat to within a few centimeters, the clip and radar reliably lock onto the same bar, a radar training corpus is assembled from public and simulated sources, and the form-perception model trains against physics simulation.
 
 Next: bring up the custom boards, isolate the bar from other movers in the scene (dual-radar person-subtraction), and validate against a criterion transducer. Load sensing and coaching efficacy are the builds after that. Each has a named deciding experiment. I don't claim what I haven't measured.
 
