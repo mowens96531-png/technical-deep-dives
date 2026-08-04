@@ -1,6 +1,6 @@
 # BarbellAI: Architecture Notes
 
-*Instrumented strength training: two custom sensors, a no-cameras sensing stack, and the data systems behind them, on the path to a physics ground-truth model for strength. Built solo.*
+*Instrumented strength training: two custom sensors, a no-cameras sensing stack, and the data systems behind them, on the path to a physics ground-truth model for strength. Built solo. Patent pending.*
 
 Architecture notes for a technical reader. The calibration machinery, the corpus, the simulation internals, and product source are the moat and stay private. Boundary at the end.
 
@@ -37,7 +37,7 @@ The sensor is the wedge: Olympic-level guidance for anyone, wherever they train.
 
 ## What stays private
 
-The calibration, the real-capture corpus and its composition, and the simulation internals are the machinery that makes it work, and they stay off this page.
+The calibration, the real-capture corpus and its composition, and the simulation internals are the machinery that makes it work, and they stay off this page. A provisional patent application is on file; what it covers stays off this page too.
 
 ---
 *Relevance to a robotics conversation: this is a full physical-AI stack in miniature (custom sensors, sensor fusion, sim-to-real, a preregistered eval discipline, and a data flywheel) run by one person under a verification doctrine.*
