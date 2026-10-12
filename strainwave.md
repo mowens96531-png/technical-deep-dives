@@ -71,4 +71,4 @@ Strainwave is in R&D. End-to-end force performance, deployment economics, multi-
 
 This overview shares the business thesis and reasoning. Proprietary designs, implementation details, private data, and unpublished inventions are omitted.
 
-For context on my other work, see the [repository overview](README.md). To connect, visit [michaelpowens.com](https://www.michaelpowens.com).
+For Strainwave inquiries, email [mike@strainwave.io](mailto:mike@strainwave.io). For context on my other work, see the [repository overview](README.md) or visit [michaelpowens.com](https://www.michaelpowens.com).
