@@ -1,5 +1,7 @@
 # BarbellAI: Architecture Notes
 
+> **Historical venture notes.** BarbellAI is preserved history. [Strainwave](strainwave.md) is the current force-measurement venture. The original account below is retained as a historical record; its next steps are not the current Strainwave roadmap.
+
 *Instrumented strength training: two custom sensors, a no-cameras sensing stack, and the data systems behind them, on the path to a physics ground-truth model for strength. Built solo. Patent pending.*
 
 Architecture notes for a technical reader. The calibration machinery, the corpus, the simulation internals, and product source are the moat and stay private. Boundary at the end.
